@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlatformService", "PlatformService\PlatformService.csproj", "{F081EF7C-4291-4D12-A1DD-D64B35988F0B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "K8S", "K8S", "{075A5CCD-0FC8-4494-A6C1-5CF367F9F113}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandService", "CommandService\CommandService.csproj", "{39B5F62C-C6B1-4EB1-885A-6A5827050F0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F081EF7C-4291-4D12-A1DD-D64B35988F0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F081EF7C-4291-4D12-A1DD-D64B35988F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F081EF7C-4291-4D12-A1DD-D64B35988F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F081EF7C-4291-4D12-A1DD-D64B35988F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39B5F62C-C6B1-4EB1-885A-6A5827050F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B5F62C-C6B1-4EB1-885A-6A5827050F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B5F62C-C6B1-4EB1-885A-6A5827050F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B5F62C-C6B1-4EB1-885A-6A5827050F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
